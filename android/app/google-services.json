@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904458012300",
+    "project_id": "grayaconnect",
+    "storage_bucket": "grayaconnect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904458012300:android:db218b8c849b722dfb5da9",
+        "android_client_info": {
+          "package_name": "com.example.graya_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_G8WPIXKeP2M1zMPRuIDkD9AGRsoHx2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
